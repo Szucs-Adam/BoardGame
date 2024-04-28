@@ -1,0 +1,22 @@
+[
+  {
+    "winnerColor": "Red",
+    "moveCounter": 16,
+    "state": "19:16"
+  },
+  {
+    "winnerColor": "Red",
+    "moveCounter": 11,
+    "state": "21:14"
+  },
+  {
+    "winnerColor": "Red",
+    "moveCounter": 24,
+    "state": "23:12"
+  },
+  {
+    "winnerColor": "Blue",
+    "moveCounter": 19,
+    "state": "16:19"
+  }
+]
